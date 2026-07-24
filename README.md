@@ -1,6 +1,6 @@
 # 관악구 초록이
 
-<img src="chorogi/public/images/sprout.png" width="160" alt="초록이 캐릭터" />
+<img src="chorogi/public/images/thembnail.png" width="160" alt="초록이 캐릭터" />
 
 버리기 애매한 형광등, 의류, 폐건전지 등을 근처 어디에 버릴 수 있는지 지도로 알려주는 서비스입니다.
 길에서 마주치는 초록색 새싹 캐릭터 **초록이**와 함께, 분리배출을 조금 더 쉽고 친숙하게 만들고 싶어서 만들었습니다.
@@ -53,16 +53,6 @@
 - [react-device-detect](https://github.com/duskload/react-device-detect)
 - [카카오맵 API](https://apis.map.kakao.com/)
 - [서울 열린데이터광장 / 공공데이터포털](https://data.seoul.go.kr) — 수거함 주소 데이터
-
-## 실행 방법
-
-```bash
-cd chorogi
-npm install
-npm start
-```
-
-카카오맵을 띄우려면 `chorogi/public/index.html`의 스크립트 태그에 본인의 카카오 JavaScript 키를 넣고, [카카오 디벨로퍼스](https://developers.kakao.com)에서 사용할 도메인(`http://localhost:3000` 등)을 Web 플랫폼에 등록해야 합니다.
 
 ## 팀원
 
