@@ -7,7 +7,7 @@
 
 - 배포 링크: https://chorogi.vercel.app
 - GitHub: https://github.com/cksal3941/gwanakgu-chorogi
-- Figma: https://www.figma.com/design/dpS1oKrRGHwYgzsEbdztUe/%EA%B4%80%EC%95%85%EA%B5%AC-%EC%B4%88%EB%A1%9D%EC%9D%B4?node-id=0-1&t=FOgoIU1LvnPTVHKi-1
+- Figma: https://www.figma.com/design/0XHDPuvAA3hM3KVDByNpBJ/%EA%B4%80%EC%95%85%EA%B5%AC-%EC%B4%88%EB%A1%9D%EC%9D%B4-%EC%93%B0%EB%A0%88%EA%B8%B0-%EC%88%98%EA%B1%B0%ED%95%A8-%EC%9C%84%EC%B9%98-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-?node-id=0-1&t=ewxhHmZU3oQksNq2-1
 
 ## 프로젝트 소개
 
