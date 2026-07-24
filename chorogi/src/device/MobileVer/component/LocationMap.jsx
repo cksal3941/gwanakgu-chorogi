@@ -1,6 +1,5 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Map, MapMarker } from 'react-kakao-maps-sdk';
-import { useMap } from "@uidotdev/usehooks";
 import { Icon } from '@iconify/react';
 import LocationList from './LocationList'
 
@@ -10,7 +9,6 @@ const LocationMap = (props) => {
   const [isActive, setIsActive] = useState('false');
 
   const EventMarkerContainer = ({ position, onClick, isClicked }) => {
-    const map = useMap()
     let marker = locationList.icon;
     let changeMarker = locationList.selectedIcon;
 
